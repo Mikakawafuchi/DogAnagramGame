@@ -41,7 +41,7 @@ final class StaticWordLibrary extends WordLibrary {
         "ambiguous",
         "arithmetic",
         "backslash",
-        "bitmap",
+        "emacs",
         "circumstance",
         "combination",
         "consequently",
@@ -128,7 +128,8 @@ final class StaticWordLibrary extends WordLibrary {
         "ohjtvaa",
         "evtrxe",
         "nuisngde",
-        "rtdatioialn"
+        "rtdatioialn",
+        "iphone"
     };
     
     final static WordLibrary DEFAULT = new StaticWordLibrary();
